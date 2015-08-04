@@ -1,0 +1,2 @@
+Address Book is a simple Asp.Net web application contact manager  that lets you to store contact information about your friends, family, and colleges.
+Technologies used: ASP.NET Web Forms, ASP.NET Identity, C#, Entity Framework Code First, Html, CSS.
